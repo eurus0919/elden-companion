@@ -1,0 +1,27 @@
+# dane lokalne (nie do repo)
+references/
+backups/
+scratch/
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+build/
+dist/
+*.egg-info/
+
+# backupy i pliki robocze save'ów
+*.sl2
+*.sl2.bak
+*.rezurbak-*
+*.fixbak-*
+*.copybak-*
+*.steambak-*
+*.tmp-rezur
+*.rezur-journal.json
+.rezur-*
+
+# materiały robocze designu (rendery bench + zdjęcia referencyjne) — nie do repo
+design-refs/
